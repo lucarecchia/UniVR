@@ -1,0 +1,17 @@
+/* Obsidian: giustifica preview, blockquote e cite */
+/*
+	Questo snippet giustifica i paragrafi renderizzati, i blockquote e gli elementi <cite>
+	nella preview Markdown. Mantiene codice e tabelle allineati a sinistra per preservare
+	la leggibilità.
+*/
+
+/* Preview: paragrafi, liste, blockquote e cite */
+.markdown-preview-view p,
+.markdown-preview-view li,
+.markdown-preview-view ul,
+.markdown-preview-view ol,
+.markdown-preview-view blockquote,
+.markdown-preview-view cite {
+	text-align: justify !important;
+	text-justify: inter-word !important
+}
