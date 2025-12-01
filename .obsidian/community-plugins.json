@@ -1,4 +1,8 @@
 [
   "folder-notes",
-  "quickadd"
+  "quickadd",
+  "obsidian-style-settings",
+  "obsidian-tikzjax",
+  "obsidian-latex-suite",
+  "graph-nested-tags"
 ]

@@ -1,4 +1,12 @@
 {
   "cssTheme": "Primary",
-  "accentColor": "#62839d"
+  "accentColor": "#62839d",
+  "interfaceFontFamily": "PT Mono",
+  "textFontFamily": "Courier New",
+  "enabledCssSnippets": [
+    "snippets"
+  ],
+  "baseFontSize": 16,
+  "theme": "system",
+  "monospaceFontFamily": "Source Code Pro"
 }

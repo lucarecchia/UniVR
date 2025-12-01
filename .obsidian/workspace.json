@@ -4,17 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "407c8a90e91040fb",
+        "id": "d8abb06015e01301",
         "type": "tabs",
         "children": [
           {
-            "id": "4c2005d7562ce7e5",
+            "id": "46ead7bba2179f5d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "02_SecondYear/Analisi II/00 - Exam/2025.07.01 - I Appello.md",
+                "mode": "source",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "Nuova scheda"
+              "title": "2025.07.01 - I Appello"
+            }
+          },
+          {
+            "id": "8836ba73c738ce1e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_SecondYear/Analisi II/00 - Exam/2025.07.01 - I Appello.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "2025.07.01 - I Appello"
             }
           }
         ]
@@ -74,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4742b81443c1341a",
@@ -90,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "02_SecondYear/Analisi II/00 - Exam/2025.07.01 - I Appello.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Riferimenti"
+              "title": "Riferimenti a 2025.07.01 - I Appello"
             }
           },
           {
@@ -108,11 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "02_SecondYear/Analisi II/00 - Exam/2025.07.01 - I Appello.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Collegamenti in uscita"
+              "title": "Collegamenti in uscita da 2025.07.01 - I Appello"
             }
           },
           {
@@ -150,15 +171,17 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "02_SecondYear/Analisi II/00 - Exam/2025.07.01 - I Appello.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Struttura"
+              "title": "Struttura di 2025.07.01 - I Appello"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -167,18 +190,25 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Apri selezione rapida": false,
       "graph:Apri vista grafo": false,
       "canvas:Crea nuova lavagna": false,
       "daily-notes:Apri nota del giorno": false,
       "templates:Inserisci modello": false,
       "command-palette:Apri riquadro comandi": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "switcher:Apri selezione rapida": false
     }
   },
-  "active": "f8fa4d5c31cebe2a",
+  "active": "46ead7bba2179f5d",
   "lastOpenFiles": [
+    "02_SecondYear/Analisi II/Analisi II.md",
+    "02_SecondYear/Analisi II/00 - Exam/2025.07.01 - I Appello.md",
+    "2025-11-28.md",
+    "Senza nome.canvas",
     "README.md",
+    "02_SecondYear/Analisi II/00 - Exam",
+    "02_SecondYear/Analisi II",
+    "templates/exam.md",
     "03_ThirdYear",
     "02_SecondYear",
     "01_FirstYear",
@@ -186,7 +216,6 @@
     "templates/subject.md",
     "templates/chapter.md",
     "templates/subchapter.md",
-    "templates/exam.md",
     "templates"
   ]
 }
