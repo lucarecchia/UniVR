@@ -1,12 +1,12 @@
 {
-  "cssTheme": "Primary",
+  "cssTheme": "Cupertino",
   "accentColor": "#62839d",
-  "interfaceFontFamily": "PT Mono",
-  "textFontFamily": "Courier New",
+  "interfaceFontFamily": "Source Code Pro",
+  "textFontFamily": "PT Mono",
   "enabledCssSnippets": [
     "snippets"
   ],
-  "baseFontSize": 16,
+  "baseFontSize": 13,
   "theme": "system",
   "monospaceFontFamily": "Source Code Pro"
 }

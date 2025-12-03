@@ -1,10 +1,11 @@
 ---
-tags: AnalisiII
+tags: FisicaI
 prof:
-  - Franco Zivcovich
+  - Pasquina Marzola
 mail:
-  - franco.zivcovich@univr.it
+  - pasquina.marzola@univr.it
 CFU: 6
+mark: 21
 ---
 #  📚 Theory
 - [ ] 
@@ -13,4 +14,4 @@ CFU: 6
 - [ ] 
 
 # 🤯 Exams
-- [o] [[2025.07.01 - I Appello]]
+- [ ] 

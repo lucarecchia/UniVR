@@ -4,38 +4,72 @@
     "type": "split",
     "children": [
       {
-        "id": "d8abb06015e01301",
+        "id": "043996a2e664358b",
         "type": "tabs",
         "children": [
           {
-            "id": "46ead7bba2179f5d",
+            "id": "80f0de78dad00db1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "02_SecondYear/Analisi II/00 - Exam/2025.07.01 - I Appello.md",
-                "mode": "source",
-                "source": true
+                "file": "UniVRse.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "2025.07.01 - I Appello"
-            }
-          },
-          {
-            "id": "8836ba73c738ce1e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02_SecondYear/Analisi II/00 - Exam/2025.07.01 - I Appello.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "2025.07.01 - I Appello"
+              "icon": "lucide-table",
+              "title": "UniVRse"
             }
           }
         ]
+      },
+      {
+        "id": "c48a11ae599dfb52",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "02d2ccd50da4f1ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03_ThirdYear/Tirocinio/Tirocinio.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Tirocinio"
+            }
+          },
+          {
+            "id": "458b5b6f7b55e43f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03_ThirdYear/Controlli Automatici/Controlli Automatici.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Controlli Automatici"
+            }
+          },
+          {
+            "id": "c3e58d9ed51e2648",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_SecondYear/Reti di Calcolatori/Reti di Calcolatori.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Reti di Calcolatori"
+            }
+          }
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -92,8 +126,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "4742b81443c1341a",
@@ -171,13 +204,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02_SecondYear/Analisi II/00 - Exam/2025.07.01 - I Appello.md",
+                "file": "UniVRse.base",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Struttura di 2025.07.01 - I Appello"
+              "title": "Struttura di UniVRse"
             }
           }
         ],
@@ -199,23 +232,44 @@
       "switcher:Apri selezione rapida": false
     }
   },
-  "active": "46ead7bba2179f5d",
+  "active": "80f0de78dad00db1",
   "lastOpenFiles": [
+    "02_SecondYear/Reti di Calcolatori/Reti di Calcolatori.md",
+    "03_ThirdYear/Controlli Automatici/Controlli Automatici.md",
+    "02_SecondYear/Reti di Calcolatori",
+    "03_ThirdYear/Tesi/Tesi.md",
+    "03_ThirdYear/Tirocinio/Tirocinio.md",
+    "03_ThirdYear/Tesi",
+    "03_ThirdYear/Basi di Dati/Basi di Dati.md",
+    "03_ThirdYear/Linguaggi/Linguaggi.md",
+    "03_ThirdYear/Fondamenti dell'Informatica/Fondamenti dell'Informatica.md",
+    "03_ThirdYear/Elaborazione Segnali e Immagini/Elaborazione Segnali e Immagini.md",
+    "UniVRse.base",
+    "03_ThirdYear/Tirocinio",
+    "03_ThirdYear/Basi di Dati",
+    "03_ThirdYear/Controlli Automatici",
+    "03_ThirdYear/Linguaggi",
+    "03_ThirdYear/Fondamenti dell'Informatica",
+    "01_FirstYear/Probabilità e Statistica/Probabilità e Statistica.md",
+    "01_FirstYear/Programmazione I/Programmazione I.md",
+    "02_SecondYear/Algoritmi/Algoritmi.md",
     "02_SecondYear/Analisi II/Analisi II.md",
+    "02_SecondYear/Fisica II/Fisica II.md",
+    "02_SecondYear/Ingegneria del software/Ingegneria del software.md",
+    "02_SecondYear/Programmazione II/Programmazione II.md",
+    "02_SecondYear/Sistemi/Sistemi.md",
+    "02_SecondYear/Sistemi Operativi/Sistemi Operativi.md",
+    "03_ThirdYear/Elaborazione Segnali e Immagini",
+    "02_SecondYear/Sistemi Operativi",
+    "01_FirstYear/Architettura degli Elaboratori/Architettura degli Elaboratori.md",
+    "01_FirstYear/Logica/Logica.md",
+    "01_FirstYear/Inglese B2/Inglese B2.md",
+    "01_FirstYear/Fisica I/Fisica I.md",
+    "01_FirstYear/Analisi I/Analisi I.md",
+    "01_FirstYear/Algebra Lineare/Algebra Lineare.md",
+    "Senza nome.md",
+    "02_SecondYear/Analisi II/00 - Exam/2025.07.31 - II Appello.md",
     "02_SecondYear/Analisi II/00 - Exam/2025.07.01 - I Appello.md",
-    "2025-11-28.md",
-    "Senza nome.canvas",
-    "README.md",
-    "02_SecondYear/Analisi II/00 - Exam",
-    "02_SecondYear/Analisi II",
-    "templates/exam.md",
-    "03_ThirdYear",
-    "02_SecondYear",
-    "01_FirstYear",
-    "templates/project.md",
-    "templates/subject.md",
-    "templates/chapter.md",
-    "templates/subchapter.md",
-    "templates"
+    "Senza nome.canvas"
   ]
 }

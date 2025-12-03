@@ -1,10 +1,12 @@
 ---
-tags: AnalisiII
+tags:
+  - AnalisiI
 prof:
-  - Franco Zivcovich
+  - Giacomo Canevari
 mail:
-  - franco.zivcovich@univr.it
+  - giacomo.canevari@univr.it
 CFU: 6
+mark: 25
 ---
 #  📚 Theory
 - [ ] 
@@ -13,4 +15,4 @@ CFU: 6
 - [ ] 
 
 # 🤯 Exams
-- [o] [[2025.07.01 - I Appello]]
+- [ ] 

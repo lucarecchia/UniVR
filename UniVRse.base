@@ -1,0 +1,32 @@
+summaries:
+  Sum: values.filter(value.isType("number")).reduce(value + acc, 0).round(2)
+formulas:
+  Untitled: file.folder.split("/")[0]
+properties:
+  formula.Untitled:
+    displayName: rootFolder
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - "!CFU.isEmpty()"
+    groupBy:
+      property: formula.Untitled
+      direction: ASC
+    order:
+      - file.name
+      - CFU
+      - mark
+      - prof
+    sort:
+      - property: formula.Untitled
+        direction: ASC
+      - property: file.folder
+        direction: ASC
+    summaries:
+      CFU: Sum
+      mark: Average
+    columnSize:
+      file.name: 263
+      note.prof: 187

@@ -1,9 +1,9 @@
 ---
-tags: AnalisiII
+tags: ControlliAutomatici
 prof:
-  - Franco Zivcovich
+  - Andrea Calanca
 mail:
-  - franco.zivcovich@univr.it
+  - andrea.calanca@univr.it
 CFU: 6
 ---
 #  📚 Theory
@@ -13,4 +13,4 @@ CFU: 6
 - [ ] 
 
 # 🤯 Exams
-- [o] [[2025.07.01 - I Appello]]
+- [ ] 

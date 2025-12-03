@@ -196,7 +196,7 @@
   ],
   "inputPrompt": "single-line",
   "devMode": false,
-  "templateFolderPath": "",
+  "templateFolderPath": "templates",
   "announceUpdates": "all",
   "version": "2.8.0",
   "globalVariables": {},

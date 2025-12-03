@@ -1,10 +1,11 @@
 ---
-tags: AnalisiII
+tags: AlgebraLineare
 prof:
-  - Franco Zivcovich
+  - Rosanna Laking
 mail:
-  - franco.zivcovich@univr.it
+  - rosanna.laking@univr.it
 CFU: 6
+mark: 20
 ---
 #  📚 Theory
 - [ ] 
@@ -13,4 +14,4 @@ CFU: 6
 - [ ] 
 
 # 🤯 Exams
-- [o] [[2025.07.01 - I Appello]]
+- [ ] 

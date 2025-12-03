@@ -1,9 +1,9 @@
 ---
-tags: AnalisiII
+tags: IngegneriaDelSoftware
 prof:
-  - Franco Zivcovich
+  - Carlo Combi
 mail:
-  - franco.zivcovich@univr.it
+  - carlo.combi@univr.it
 CFU: 6
 ---
 #  📚 Theory
@@ -13,4 +13,7 @@ CFU: 6
 - [ ] 
 
 # 🤯 Exams
-- [o] [[2025.07.01 - I Appello]]
+- [ ] 
+
+# 🚧 Projects
+- [ ] 

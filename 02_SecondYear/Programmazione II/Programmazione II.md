@@ -1,9 +1,9 @@
 ---
-tags: AnalisiII
+tags: ProgrammazioneJava
 prof:
-  - Franco Zivcovich
+  - Michele Pasqua
 mail:
-  - franco.zivcovich@univr.it
+  - michele.pasqua@univr.it
 CFU: 6
 ---
 #  📚 Theory
@@ -13,4 +13,4 @@ CFU: 6
 - [ ] 
 
 # 🤯 Exams
-- [o] [[2025.07.01 - I Appello]]
+- [ ] 

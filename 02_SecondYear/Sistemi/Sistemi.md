@@ -1,10 +1,11 @@
 ---
-tags: AnalisiII
+tags: Sistemi
 prof:
-  - Franco Zivcovich
+  - Francesco Visentin
 mail:
-  - franco.zivcovich@univr.it
+  - francesco.visentin@univr.it
 CFU: 6
+mark: 23
 ---
 #  📚 Theory
 - [ ] 
@@ -13,4 +14,4 @@ CFU: 6
 - [ ] 
 
 # 🤯 Exams
-- [o] [[2025.07.01 - I Appello]]
+- [ ] 

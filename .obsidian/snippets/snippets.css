@@ -15,3 +15,7 @@
 	text-align: justify !important;
 	text-justify: inter-word !important
 }
+
+.page-break {
+	page-break-after: always;
+}

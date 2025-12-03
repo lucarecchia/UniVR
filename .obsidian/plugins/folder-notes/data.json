@@ -62,13 +62,13 @@
     "explorer": true,
     "path": true
   },
-  "settingsTab": "general",
+  "settingsTab": "folder_overview",
   "supportedFileTypes": [
     "md",
     "canvas",
     "base"
   ],
-  "boldName": false,
+  "boldName": true,
   "boldNameInPath": false,
   "cursiveName": false,
   "cursiveNameInPath": false,
@@ -111,7 +111,7 @@
   "hideCollapsingIcon": false,
   "hideCollapsingIconForEmptyFolders": false,
   "tabManagerEnabled": true,
-  "ignoreAttachmentFolder": true,
+  "ignoreAttachmentFolder": false,
   "deleteFilesAction": "trash",
   "openSidebar": {
     "mobile": false,

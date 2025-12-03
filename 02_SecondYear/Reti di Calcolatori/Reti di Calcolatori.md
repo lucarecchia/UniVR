@@ -1,10 +1,12 @@
 ---
-tags: AnalisiII
+tags:
+  - Reti
 prof:
-  - Franco Zivcovich
+  - Damiano Carra
 mail:
-  - franco.zivcovich@univr.it
+  - damiano.carra@univr.it
 CFU: 6
+mark: 27
 ---
 #  📚 Theory
 - [ ] 
@@ -13,4 +15,4 @@ CFU: 6
 - [ ] 
 
 # 🤯 Exams
-- [o] [[2025.07.01 - I Appello]]
+- [ ] 

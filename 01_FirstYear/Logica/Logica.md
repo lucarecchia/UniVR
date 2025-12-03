@@ -1,10 +1,11 @@
 ---
-tags: AnalisiII
+tags: Logica
 prof:
-  - Franco Zivcovich
+  - Margherita Zorzi
 mail:
-  - franco.zivcovich@univr.it
+  - margherita.zorzi@univr.it
 CFU: 6
+mark: 18
 ---
 #  📚 Theory
 - [ ] 
@@ -13,4 +14,4 @@ CFU: 6
 - [ ] 
 
 # 🤯 Exams
-- [o] [[2025.07.01 - I Appello]]
+- [ ] 

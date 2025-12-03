@@ -1,10 +1,11 @@
 ---
-tags: AnalisiII
+tags: IngleseB2
 prof:
-  - Franco Zivcovich
+  - Vanessa De Marines
 mail:
-  - franco.zivcovich@univr.it
+  - vanessa.demarines@univr.it
 CFU: 6
+mark:
 ---
 #  📚 Theory
 - [ ] 
@@ -13,4 +14,4 @@ CFU: 6
 - [ ] 
 
 # 🤯 Exams
-- [o] [[2025.07.01 - I Appello]]
+- [ ] 
